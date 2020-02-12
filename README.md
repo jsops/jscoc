@@ -1,6 +1,9 @@
 ![logo](imgs/JSOPSsq.png)
 ![logo-r](imgs/jsops.png)
+
+
 # JSOPS :: COC
+
 
 > Admin and Branding folder ( $300 to hide **:(** )
 
