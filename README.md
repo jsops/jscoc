@@ -5,7 +5,7 @@
 # JSOPS :: COC
 
 
-> Admin and Branding folder ( $300 to hide **:(** )
+> Admin folder
 
 
 ## Theme & Styles
